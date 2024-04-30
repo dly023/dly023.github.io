@@ -1,6 +1,14 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title": "喜剧悲奇剧",
+    "subTitle": "美好回忆流逝的时候，噩梦也会过去；人们过着缤纷的日子，美梦也已经过去。",
+    "avatarUrl": "https://i0.hdslb.com/bfs/face/3d700e1d4bc0aa3a45427b83b5effa6f9c135bf1.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif",
+    "GMEEK_VERSION": "last",
+    "faviconUrl": "",
+    "email": "meekdai@163.com",
+    "startSite": "02/16/2015",
+    "onePageListNum": 15,
+    "singlePage": [
+        "about"
+    ],
+    "rssSplit": "&*&%^&^%^&^%"
 }
